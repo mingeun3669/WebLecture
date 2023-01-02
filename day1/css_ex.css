@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+.box {
+    background-color: bisque;
+    width: 200px;
+    height: 200px;
+
+    padding: 10px, 10px, 10px, 10px
+}
+
+div {
+    display: block;
+}
